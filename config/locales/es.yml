@@ -1,6 +1,6 @@
 # Spanish strings go here for Rails i18n
 en:
-  label_name: "Salas de reuniones"
+  label_name: "Meeting rooms"
   label_meeting_date: "Fecha"
   label_meeting_end_date: "Fecha fin"
   label_booked_by: "Reservada por"
