@@ -32,7 +32,7 @@ en:
   label_biweekly: "Cada 15 días"
   label_daily: "Cada día"
   label_count: "veces"
-  label_missing_config: "¡El Plugin no está correctamente configurado! Vaya a Administración -> Extensiones -> Configurar" #vea, visite, revise, qué?
+  label_missing_config: "¡El Plugin no está correctamente configurado! Puede hacerlo desde Administración -> Extensiones -> Configurar" #vea, visite, revise, qué?
   label_setting_project_id: "Proyecto"
   label_setting_tracker_id: "Tipo" #es una lista de tipos como las de los issues
   label_setting_custom_field_id_room: "Campo personalizado 'Sala'"
